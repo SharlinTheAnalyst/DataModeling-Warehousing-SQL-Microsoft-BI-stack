@@ -7,3 +7,7 @@ Using Tableau and Power BI to design Data Visualisations for business users and 
 -Need to understand the mix of products in a customer’s market basket
 -Sales Manager is interested to know the effects of product rebranding on Sales
 -Needs to perform sales analysis on overall product brand sales and rebrand product sales
+Files included:
+Bubble Chart- makes it easier ti view high level model for non technical users
+Advanced control- control package script required to run EDW and staging package in SSIS
+BI: BI process visual
